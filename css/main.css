@@ -1,0 +1,11 @@
+body{
+    background-color: skyblue;
+}
+.site-table{
+    padding: 30px;
+    width: 900px;
+    height: 400px;
+    text-align: start;
+    margin: 100px auto;
+}
+
